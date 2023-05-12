@@ -10,4 +10,11 @@ def divide(a, b):
 def power(a, b):
     return a ** b
 
+## Write a function that takes in an input name and then returns the name spelled backwards. However please include an error somewhere in the code.
+def reverse_name(name):
+    return name[::-1] + 2
+
+
+
+
     
